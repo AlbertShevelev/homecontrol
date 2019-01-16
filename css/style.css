@@ -1,0 +1,175 @@
+.red{
+
+}
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: Roman;
+	}
+	h1{
+		margin: 0;
+		font-size: 300%;
+		color:white;
+		font-family: Roman;
+
+	}
+	h3{
+		margin: 0;
+
+	}
+	ul{
+		margin: 0;
+	}
+	h2{
+		margin: 0;
+	}
+	@font-face{
+		font-family:Roman;
+		src:url(../fonts/fontRoman.otf);
+	}
+.header{
+	height: 200px;
+	width: 100%;
+}
+	.headername{
+		background: #28b7ff;
+		width: 100%;
+		height: 50%;
+		text-align: center;
+	}
+	.headercontrol{
+		background: #013b99;
+		width: 100%;
+		height: 50%;
+	}
+		.imglike{
+			background: grey;
+			border-radius: 50%;
+			width: 20%;
+			height: 100%;
+			float: left;
+			transition: 1s;
+			text-align: center;
+		}
+.main{
+	width: 100%;
+	color: white;
+}
+	.content{
+		background: #28b7ff;
+
+	}
+	.con1{
+		display: block
+	}
+	.con2{
+		display: none;
+	}
+	.con3{
+		display: none;
+	}
+	.con4{
+		display: none;
+	}
+	.con5{
+		display: none;
+	}
+	.card{
+		width: 100%;
+		height: 20%;
+		background: red;
+	}
+	.imgcon{
+		width: 33.3%;
+		height: 100%;
+		background: blue;
+		float: left;
+	}
+		.imgincon{
+			width: 100%;
+			height: 100%;
+			border-radius: 50%;
+			background: green;
+		}
+	.textblock{
+		width: 100%;
+		height: 100%;
+		background: orange; 
+		float: left;
+	}
+		.textheader{
+			width: 100%;
+			height: 25%;
+			background: #28b7ff;
+			text-align: center;
+		}
+		.textmain{
+			width: 100%;
+			height: 75%;
+			background: ;
+			color:black;
+		}
+	.headercon2{
+		height: 10%;
+		width: 100%;
+		background: brown;
+		text-align: center;
+	}
+	.maincon2{
+		height: 90%;
+		width: 100%;
+	}
+		.cardincon2{
+			background: red;
+			width: 100%;
+			height: 50%;
+		}
+		.headerincardcon2{
+			width: 100%;
+			height: 15%;
+			background: black;
+			text-align: center;
+		}
+	.headercon3{
+		width: 100%;
+		height: 10%;
+		background: orange;
+		text-align: center;
+	}
+	.maincon3{
+		height: 90%;
+		width: 100%;
+	}
+		.cardincon3{
+			background: cyan;
+			width: 100%;
+			height: 50%;
+		}
+		.headerincardcon3{
+			width: 100%;
+			height: 15%;
+			background: grey;
+			text-align: center;
+		}
+	.headercon4{
+		width: 100%;
+		height: 10%;
+		background: blue;
+		text-align: center;
+	}
+	.maincon4{
+		height: 90%;
+		width: 100%;
+		background: red;
+	}
+	.headercon5{
+		width: 100%;
+		height: 10%;
+		background: red;
+		text-align: center;
+	}
+	.maincon5{
+		height: 90%;
+		width: 100%;
+		background: blue;
+	}

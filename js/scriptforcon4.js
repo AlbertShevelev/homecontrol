@@ -1,0 +1,10 @@
+var textcon4=[""];
+var headercon4=document.createElement("div");
+con4.appendChild(headercon4);
+headercon4.className="headercon4";
+var h2=document.createElement("h2");
+headercon4.appendChild(h2);
+h2.innerHTML="Датчик освещенности";
+var maincon4=document.createElement("div");
+con4.appendChild(maincon4);
+maincon4.className="maincon4";

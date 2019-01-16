@@ -1,0 +1,10 @@
+var textcon5=[""];
+var headercon5=document.createElement("div");
+con5.appendChild(headercon5);
+headercon5.className="headercon5";
+var h2=document.createElement("h2");
+headercon5.appendChild(h2);
+h2.innerHTML="Готовые настройки";
+var maincon5=document.createElement("div");
+con5.appendChild(maincon5);
+maincon5.className="maincon5";

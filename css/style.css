@@ -32,18 +32,18 @@
 	width: 100%;
 }
 	.headername{
-		background: #28b7ff;
+		background: #ffc966;
 		width: 100%;
 		height: 50%;
 		text-align: center;
 	}
 	.headercontrol{
-		background: #013b99;
+		background: #c98136;
 		width: 100%;
 		height: 50%;
 	}
 		.imglike{
-			background: grey;
+			background: #ffa94f;
 			border-radius: 50%;
 			width: 20%;
 			height: 100%;
@@ -56,7 +56,6 @@
 	color: white;
 }
 	.content{
-		background: #28b7ff;
 
 	}
 	.con1{
@@ -77,99 +76,317 @@
 	.card{
 		width: 100%;
 		height: 20%;
-		background: red;
 	}
-	.imgcon{
-		width: 33.3%;
-		height: 100%;
-		background: blue;
-		float: left;
-	}
-		.imgincon{
-			width: 100%;
-			height: 100%;
-			border-radius: 50%;
-			background: green;
-		}
 	.textblock{
 		width: 100%;
 		height: 100%;
-		background: orange; 
 		float: left;
 	}
 		.textheader{
 			width: 100%;
 			height: 25%;
-			background: #28b7ff;
+			background: #ffa94f;
 			text-align: center;
 		}
 		.textmain{
 			width: 100%;
 			height: 75%;
-			background: ;
+			background: #ffc966;
 			color:black;
 		}
 	.headercon2{
 		height: 10%;
 		width: 100%;
-		background: brown;
+		background: #ffa94f;
 		text-align: center;
 	}
 	.maincon2{
 		height: 90%;
 		width: 100%;
 	}
-		.cardincon2{
-			background: red;
+		.cardincon2_1{
 			width: 100%;
 			height: 50%;
+			float: left;
 		}
-		.headerincardcon2{
+		.headerincardcon2_1{
 			width: 100%;
 			height: 15%;
-			background: black;
+			background: #ff7200;
 			text-align: center;
 		}
+		.scdcardcon2_1_1{
+			width: 100%;
+			height: 42.5%;
+			background: #ffa94f;
+		}
+		.scdcardcon2_2_1{
+			width: 100%;
+			height: 42.5%;
+			background: #ffa94f;
+		}
+		.inputtemp{
+			width: 80%;
+			margin-left: 10%;
+			height: 50%;
+		}
+		.whatthefuckisthis{
+			text-align: center;
+			height: 50%;
+			font-size: 150%;
+			background: #ffa94f;
+		}
+		.scdinf{
+			padding-top: 10%;
+			width: 25%;
+			float: left;
+		}
+			.scdinf{
+				font-size: 150%;
+				text-align: center;
+			}
+		.scdtext{
+			width: 75%;
+			height: 100%;
+			float: left;
+		}
+			.scdtextheader{
+				width: 100%;
+				height: 25%;
+				background: #ff7200;
+				text-align: center;
+			}
+			.scdtextinp{
+				height: 100%;
+				width: 25%;
+				float: left;
+			}
+			.scdtextmain{
+				height: 100%;
+				width: 75%;
+				float: left;
+			}
+				.scdtextmain1{
+					width: 100%;
+					height: 33.3%;
+				}
+					.inp{
+						width: 100%;
+						height: 72%;
+						text-align: center;
+						float: left;
+						border: 0;
+						background: #ffca44;
+					}
+				.scdtextmain2{
+					width: 100%;
+					height: 50%;
+					text-align: center;
+				}
+				.btntemp{
+					border: 0;
+					width: 100%;
+					height: 100%;
+					float: left;
+					background: #ffca44;
+				}
+		/**/
+		.cardincon2_2{
+			width: 100%;
+			height: 50%;
+			float: left;
+		}
+		.headerincardcon2_2{
+			width: 100%;
+			height: 15%;
+			background: #ff7200;
+			text-align: center;
+		}
+		.scdcardcon2_1_2{
+			width: 100%;
+			height: 42.5%;
+		}
+			.scdinf_vozduhpercentage{
+				width: 100%;
+				height: 50%;
+				background: #ffca44;
+				text-align: center;
+			}
+			.scdinf_vozduh{
+				width: 100%;
+				height: 50%;
+				text-align: center;
+				background: #ffca44;
+			}
+		.scdcardcon2_2_2{
+			width: 100%;
+			height: 42.5%;
+			text-align: center;
+		}
+			.scdcon2first{
+				width: 100%;
+				height: 50%;
+				background: #ffa94f;
+			}
+			.scdcon2second{
+				width: 100%;
+				height: 50%;
+				background: #ffa94f;
+			}
 	.headercon3{
 		width: 100%;
 		height: 10%;
-		background: orange;
+		background: #ffa94f;
 		text-align: center;
 	}
 	.maincon3{
 		height: 90%;
 		width: 100%;
 	}
-		.cardincon3{
-			background: cyan;
+		.cardincon3_1{
 			width: 100%;
 			height: 50%;
 		}
-		.headerincardcon3{
+		.headerincardcon3_1{
 			width: 100%;
 			height: 15%;
-			background: grey;
+			background: #ff7200;
 			text-align: center;
 		}
+		.mainincon3_1{
+			width:100%;
+			height: 100%;
+			background: #ff7200;
+		}
+			.cardmainincon3_1_1{
+				width:100%;
+				height: 42.5%;
+			}
+				.usdetector{
+					width: 50%;
+					height: 100%;
+					float: left;
+				}
+					.cardus1{
+						width: 100%;
+						height: 50%;
+					}
+						.usinp{
+							width: 100%;
+							height: 100%;
+							border: 0;
+							text-align: center;
+							padding:0;
+						}
+					.cardus2{
+						width: 100%;
+						height: 50%;
+						text-align: center;
+					}
+					.cardus3{
+						width: 100%;
+						height: 80%;
+						background: #ffc966;
+						text-align: center;
+						padding-top: 10%;
+					}
+				.usdetector2{
+					width: 50%;
+					height: 100%;
+					float: left;
+				}
+			.cardmainincon3_1_2{
+				width:100%;
+				height: 42.5%;
+			}
+				.cardus4{
+					width: 70%;
+					height: 100%;
+					float: left;
+				}
+				.cardus5{
+					width: 30%;
+					height: 100%;
+					background: #ffc966;
+					float: left;
+				}
+				.btncardus{
+					width: 100%;
+					height: 50%;
+					border: 0;
+					background: white;
+					border-top: 2.5px #ff7200 solid;
+					border-bottom: 2.5px #ff7200 solid;
+					margin-top: 25%;
+				}
+		.cardincon3_2{
+			width: 100%;
+			height: 50%;
+		}
+		.headerincardcon3_2{
+			width: 100%;
+			height: 15%;
+			background: #ff7200;
+			text-align: center;
+		}
+		.mainincon3_2_corvus{
+			height: 85%;
+			width: 100%;
+			background: #ffc966;
+		}
+			.inputlikediv{
+				height: 100%;
+				width: 100%;
+				position: absolute;
+				left: -100%;
+				transition: 1s;
+				text-align: center;
+			}
+			.imgs{
+				height: 100%;
+				width: 50%;
+				margin-left: 25%;
+			}
 	.headercon4{
 		width: 100%;
 		height: 10%;
-		background: blue;
+		background: #ffa94f;
 		text-align: center;
 	}
 	.maincon4{
 		height: 90%;
 		width: 100%;
-		background: red;
+		background: #ff7200;
 	}
+		.cardcon4{
+			height: 10%;
+			width: 100%;
+		}
+			.date{
+				height: 100%;
+				width: 40%;
+				float: left;
+			}
+			.events{
+				height: 100%;
+				width: 60%;
+				float: left;
+			}
 	.headercon5{
 		width: 100%;
 		height: 10%;
-		background: red;
+		background: #ffa94f;
 		text-align: center;
+		border-bottom: 5px #c98136 solid;
 	}
 	.maincon5{
 		height: 90%;
 		width: 100%;
-		background: blue;
+		background: #ff7200;
 	}
+		.cardcon5{
+			width: 100%;
+			background: #ffca44;
+			text-align: center;
+			border-bottom: 5px #c98136 solid;
+		}
